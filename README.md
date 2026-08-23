@@ -8,5 +8,5 @@ I make projects and sometimes put them as repositories.
 
 ## Programming languages that I want to learn (or am learning)
 ![Lua](https://raw.githubusercontent.com/devicon/blob/v2.17.0/icons/lua/lua-original.svg)
-![C++](https://raw.githubusercontent.com/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.png)
-![C](https://raw.githubusercontent.com/devicon/blob/v2.17.0/icons/c/c-original.png)
+![C++](https://raw.githubusercontent.com/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg)
+![C](https://raw.githubusercontent.com/devicon/blob/v2.17.0/icons/c/c-original.svg)
